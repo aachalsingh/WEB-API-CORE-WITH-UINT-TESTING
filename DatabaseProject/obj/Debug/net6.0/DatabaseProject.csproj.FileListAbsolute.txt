@@ -1,0 +1,12 @@
+D:\CSharp\asp.net web api\DatabaseProject\bin\Debug\net6.0\DatabaseProject.deps.json
+D:\CSharp\asp.net web api\DatabaseProject\bin\Debug\net6.0\DatabaseProject.dll
+D:\CSharp\asp.net web api\DatabaseProject\bin\Debug\net6.0\DatabaseProject.pdb
+D:\CSharp\asp.net web api\DatabaseProject\obj\Debug\net6.0\DatabaseProject.csproj.AssemblyReference.cache
+D:\CSharp\asp.net web api\DatabaseProject\obj\Debug\net6.0\DatabaseProject.GeneratedMSBuildEditorConfig.editorconfig
+D:\CSharp\asp.net web api\DatabaseProject\obj\Debug\net6.0\DatabaseProject.AssemblyInfoInputs.cache
+D:\CSharp\asp.net web api\DatabaseProject\obj\Debug\net6.0\DatabaseProject.AssemblyInfo.cs
+D:\CSharp\asp.net web api\DatabaseProject\obj\Debug\net6.0\DatabaseProject.csproj.CoreCompileInputs.cache
+D:\CSharp\asp.net web api\DatabaseProject\obj\Debug\net6.0\DatabaseProject.dll
+D:\CSharp\asp.net web api\DatabaseProject\obj\Debug\net6.0\refint\DatabaseProject.dll
+D:\CSharp\asp.net web api\DatabaseProject\obj\Debug\net6.0\DatabaseProject.pdb
+D:\CSharp\asp.net web api\DatabaseProject\obj\Debug\net6.0\ref\DatabaseProject.dll
